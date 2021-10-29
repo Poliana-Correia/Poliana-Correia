@@ -6,9 +6,9 @@
 - Pronouns: ela/dela
 
  <div>
-  <a href="https://linkedin.com/in/polianakaren/" target="blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poliana-Correia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poliana-Correia&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://linkedin.com/in/polianakaren/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poliana-Correia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ target="blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poliana-Correia&layout=compact&langs_count=7&theme=dracula"/ target="blank">
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Poli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
