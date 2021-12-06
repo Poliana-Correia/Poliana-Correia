@@ -1,9 +1,8 @@
 ## Hi, I'm Poliana Correia
 
 
-- Desenvolvedora Front-end 
-- Estudando JavaScript / React / HTML / CSS
-- Pronouns: ela/dela
+- Front-end developer 
+- Studying JavaScript / React / HTML / CSS
 
  <div align="center">
   <a href="https://linkedin.com/in/polianakaren/" target="_blank">
