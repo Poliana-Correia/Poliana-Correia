@@ -1,4 +1,4 @@
-## Olá! Eu sou a Poliana Correia
+## Hi, I'm Poliana Correia
 
 
 - Desenvolvedora Front-end 
