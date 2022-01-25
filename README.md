@@ -1,8 +1,8 @@
-## Hi, I'm Poliana Correia
+> ## Hi, I'm Poliana Correia 🌺
 
 
 - Front-end developer 
-- Studying JavaScript / React / HTML / CSS
+- Studying JavaScript / React Native / HTML / CSS
 
  <div align="center">
   <a href="https://linkedin.com/in/polianakaren/" target="_blank">
