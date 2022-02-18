@@ -2,7 +2,7 @@
 
 
 - Front-end developer 
-- Studying JavaScript / React Native / HTML / CSS
+- Studying JavaScript / ReactJS / HTML / CSS
 
  <div align="center">
   <a href="https://linkedin.com/in/polianakaren/" target="_blank">
